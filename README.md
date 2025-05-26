@@ -1,2 +1,5 @@
-# Wallpaper0001
-Some Cool Wallpaper I liked I guess
+# Wallpapers
+
+In this repository I am going to add all the wallpapers used in past, present are more 
+
+Thank you!
