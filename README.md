@@ -21,7 +21,7 @@ Welcome to the **Awesome Wallpapers Collection**! 🎨📸 This repository is a 
 Here are a few examples of what you can find in this repository:
 
 ![Wallpaper 1](Scenary/4k-Mountain-Lake-Reflection-in-Nature-Scenery-4K-Wallpaper.jpg)
-![Wallpaper 2](Animated/Spiderman-across-the-spiderverse.jpg)
+![Wallpaper 2](Minimal/Minimal_04.webp)
 ![Wallpaper 3](Scenary/illustration-anime-city.jpg)
 ![Wallpaper 4](Scenary/Sunset-between-mountains.jpg)
 ![Wallpaper 5](Pixelated/pixel-lake06-uhd-sunny-center-cabin.jpg)
